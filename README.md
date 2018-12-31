@@ -11,7 +11,7 @@ Instructions to use the app:-
 
 Now you can run the app.
 
-![Main Screen](https://imgur.com/FBN1B1v)
-![Popular Movies](https://imgur.com/7Er8rT8)
-![Top Rated Movies](https://imgur.com/nGP9qlT)
-![Details Page](https://imgur.com/2TNkvZB)
+![Main Screen](https://i.imgur.com/FBN1B1v.png)
+![Popular Movies](https://i.imgur.com/7Er8rT8.png)
+![Top Rated Movies](https://i.imgur.com/nGP9qlT.png)
+![Details Page](https://i.imgur.com/2TNkvZB.png)
