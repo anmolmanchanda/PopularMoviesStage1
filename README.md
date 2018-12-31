@@ -11,7 +11,6 @@ Instructions to use the app:-
 
 Now you can run the app.
 
-![Main Screen](https://i.imgur.com/FBN1B1v.png)
-![Popular Movies](https://i.imgur.com/7Er8rT8.png)
-![Top Rated Movies](https://i.imgur.com/nGP9qlT.png)
-![Details Page](https://i.imgur.com/2TNkvZB.png)
+<img src="https://i.imgur.com/FBN1B1v.png" alt="Main Screen" width="350" height="650"/> <img src="https://i.imgur.com/7Er8rT8.png" alt="Popular Movies" width="350" height="650"/>
+<img src="https://i.imgur.com/nGP9qlT.png" alt="Top Rated Movies" width="350" height="650"/> <img src="https://i.imgur.com/2TNkvZB.png" alt="Details Page" width="350" height="650"/>
+
