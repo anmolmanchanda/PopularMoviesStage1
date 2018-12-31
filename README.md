@@ -1,5 +1,6 @@
 # PopularMoviesStage1
 Popular Movies: Stage 1 is an app to view Movies. User can sort by "Top Rated" or "Popular Movies".
+The sorting choice gets saved as a preference for future.
 
 Requirements:-
 1. API key from "themoviedb.org"
@@ -9,3 +10,8 @@ Instructions to use the app:-
 2. Paste the API key in "key_theMovieDb"
 
 Now you can run the app.
+
+![Main Screen](https://imgur.com/FBN1B1v)
+![Popular Movies](https://imgur.com/7Er8rT8)
+![Top Rated Movies](https://imgur.com/nGP9qlT)
+![Details Page](https://imgur.com/2TNkvZB)
